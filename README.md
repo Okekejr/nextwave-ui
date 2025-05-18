@@ -16,7 +16,7 @@ NextWave UI is a modern frontend starter built with ⚡️ performance and 🧠 
 
 ```bash
 # 1. Clone the boilerplate
-npx degit yourusername/nextwave-ui my-new-project
+npx degit Okekejr/nextwave-ui my-new-project
 cd my-new-project
 
 # 2. Install dependencies
